@@ -10,7 +10,11 @@
 				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/MainLevel.umap",
 				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/GameModes/BP_RunGameMode.uasset",
 				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Controllers/BP_RunCharacterController.uasset",
-				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_FloorTile.uasset"
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_FloorTile.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_Obstacle.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RockObstacle.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/StarterContent/Props/SM_Rock.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_SilverObstacle.uasset"
 			]
 		}
 	]
