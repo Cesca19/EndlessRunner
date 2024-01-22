@@ -2738,3 +2738,824 @@ Script Stack (0 frames) :
 [2024.01.22-20.20.36:533][698]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
 [2024.01.22-20.20.36:539][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
 [2024.01.22-20.20.36:589][701]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.01.22-20.23.10:150][668]LogEditorTransaction: Undo Move Node
+[2024.01.22-20.23.10:587][688]LogEditorTransaction: Undo Rename Node
+[2024.01.22-20.23.10:990][708]LogEditorTransaction: Undo Add Node
+[2024.01.22-20.23.11:372][728]LogEditorTransaction: Undo Delete current selection
+[2024.01.22-20.23.12:022][767]LogEditorTransaction: Undo Move Node
+[2024.01.22-20.28.34:714][681]BlueprintLog: New page: Compile BP_RunCharacter
+[2024.01.22-20.28.34:730][681]LogBlueprint: Error: [AssetLog] C:\Users\fifam\Projets\G-TECH3\Unreal C++ BP\EndlessRunner\EndlessRunner\Content\Actors\BP_RunCharacter.uasset: [Compiler] This blueprint (self) is not a CharacterMovementComponent, therefore ' Target ' must have a connection.
+[2024.01.22-20.28.34:788][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.01.22-20.28.44:884][188]BlueprintLog: New page: Compile BP_RunCharacter
+[2024.01.22-20.28.44:945][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.22-20.28.48:882][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.28.49:027][410]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-20.28.49:178][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_RunCharacter" FILE="../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RunCharacter.uasset" SILENT=true
+[2024.01.22-20.28.49:189][410]LogSavePackage: Moving output files for package: /Game/Actors/BP_RunCharacter
+[2024.01.22-20.28.49:189][410]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_RunCharacterA8E636534596AB84403534AB7447B1BE.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RunCharacter.uasset'
+[2024.01.22-20.28.49:214][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 331 ms (total: 2.06 sec)
+[2024.01.22-20.28.49:218][410]AssetCheck: New page: Asset Save: BP_RunCharacter
+[2024.01.22-20.28.49:218][410]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_RunCharacter.BP_RunCharacter
+[2024.01.22-20.28.53:194][647]BlueprintLog: New page: Compile BP_RunGameMode
+[2024.01.22-20.28.53:227][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.22-20.28.54:381][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.28.54:510][714]LogSavePackage: Moving output files for package: /Game/GameModes/BP_RunGameMode
+[2024.01.22-20.28.54:510][714]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_RunGameMode3D3C16944CC8FAE83846FD915B732A14.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/GameModes/BP_RunGameMode.uasset'
+[2024.01.22-20.28.54:528][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 2.20 sec)
+[2024.01.22-20.28.54:531][714]AssetCheck: New page: Asset Save: BP_RunGameMode
+[2024.01.22-20.28.54:531][714]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/GameModes/BP_RunGameMode.BP_RunGameMode
+[2024.01.22-20.30.49:573][783]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.01.22-20.31.53:831][ 22]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.01.22-20.32.08:938][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2024.01.22-20.32.08:943][ 66]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainLevel' took 0.037
+[2024.01.22-20.32.08:943][ 66]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Actors/BP_RunCharacter] ([2] browsable assets)...
+[2024.01.22-20.32.09:849][ 66]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Actors/BP_RunCharacter.BP_RunCharacter]
+[2024.01.22-20.32.09:849][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/BP_RunCharacter]
+[2024.01.22-20.32.09:856][ 66]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Actors/BP_RunCharacter_Auto4
+[2024.01.22-20.32.09:856][ 66]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_RunCharacter_Auto458755B4C4514C935507E33AC6D1640A3.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/Autosaves/Game/Actors/BP_RunCharacter_Auto4.uasset'
+[2024.01.22-20.32.09:872][ 66]LogFileHelpers: Auto-saving content packages took 0.929
+[2024.01.22-20.35.51:430][ 44]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Actors/BP_RunCharacter.BP_RunCharacter'
+[2024.01.22-20.35.53:978][194]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Stylized_VFX_StPack/Blueprints/BP_Spawn_Explosion.BP_Spawn_Explosion
+[2024.01.22-20.35.53:979][194]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-20.35.53:979][194]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-20.36.12:830][228]LogSlate: Window 'BP_Spawn_Explosion' being destroyed
+[2024.01.22-20.36.12:891][228]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.01.22-20.36.12:891][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.38.46:405][542]BlueprintLog: New page: Compile BP_RunCharacter
+[2024.01.22-20.38.46:490][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.01.22-20.38.47:690][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.38.47:886][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_RunCharacter" FILE="../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RunCharacter.uasset" SILENT=true
+[2024.01.22-20.38.47:900][609]LogSavePackage: Moving output files for package: /Game/Actors/BP_RunCharacter
+[2024.01.22-20.38.47:901][609]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_RunCharacter066C548E42ED2A7787D3068B7EEF5BEC.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RunCharacter.uasset'
+[2024.01.22-20.38.47:923][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 232 ms (total: 2.44 sec)
+[2024.01.22-20.38.47:926][609]AssetCheck: New page: Asset Save: BP_RunCharacter
+[2024.01.22-20.38.47:926][609]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_RunCharacter.BP_RunCharacter
+[2024.01.22-20.40.13:791][431]LogEditorTransaction: Undo Delete current selection
+[2024.01.22-20.42.06:460][881]LogEditorTransaction: Undo Move Node
+[2024.01.22-20.42.06:771][893]LogEditorTransaction: Undo Create Pin Link
+[2024.01.22-20.42.06:998][900]LogEditorTransaction: Undo Move Node
+[2024.01.22-20.42.07:248][914]LogEditorTransaction: Undo Move Node
+[2024.01.22-20.42.07:514][929]LogEditorTransaction: Undo Move Node
+[2024.01.22-20.42.07:735][941]LogEditorTransaction: Undo Rename Variable
+[2024.01.22-20.42.07:938][951]LogEditorTransaction: Undo Remove Variable
+[2024.01.22-20.42.08:119][960]LogEditorTransaction: Undo Delete current selection
+[2024.01.22-20.42.08:315][971]LogEditorTransaction: Undo Promote to Local Variable
+[2024.01.22-20.42.08:496][981]LogEditorTransaction: Undo Delete current selection
+[2024.01.22-20.42.08:738][994]LogEditorTransaction: Undo Create Reroute Node
+[2024.01.22-20.42.08:972][  7]LogEditorTransaction: Undo Create Pin Link
+[2024.01.22-20.42.09:180][ 18]LogEditorTransaction: Undo Create Pin Link
+[2024.01.22-20.42.09:409][ 30]LogEditorTransaction: Undo Move Node
+[2024.01.22-20.42.09:611][ 40]LogEditorTransaction: Undo Create Pin Link
+[2024.01.22-20.42.09:841][ 52]LogEditorTransaction: Undo Add Node
+[2024.01.22-20.42.10:047][ 63]LogEditorTransaction: Undo Move Node
+[2024.01.22-20.42.10:266][ 69]LogEditorTransaction: Undo Create Pin Link
+[2024.01.22-20.42.10:448][ 75]LogEditorTransaction: Undo Delete current selection
+[2024.01.22-20.42.10:691][ 83]LogEditorTransaction: Undo Create Pin Link
+[2024.01.22-20.42.11:639][121]LogEditorTransaction: Undo Create Pin Link
+[2024.01.22-20.42.11:891][131]LogEditorTransaction: Undo Delete current selection
+[2024.01.22-20.42.12:217][144]LogEditorTransaction: Undo Delete current selection
+[2024.01.22-20.42.12:441][153]LogEditorTransaction: Undo Create Reroute Node
+[2024.01.22-20.42.12:661][162]LogEditorTransaction: Undo Move Nodes
+[2024.01.22-20.42.12:847][171]LogEditorTransaction: Undo Add Node
+[2024.01.22-20.42.13:063][182]LogEditorTransaction: Undo Promote To Variable
+[2024.01.22-20.42.13:255][192]LogEditorTransaction: Undo Delete current selection
+[2024.01.22-20.42.13:739][220]LogEditorTransaction: Undo Straighten Connection(s)
+[2024.01.22-20.42.16:720][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.42.16:954][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_RockObstacle" FILE="../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RockObstacle.uasset" SILENT=true
+[2024.01.22-20.42.16:966][359]LogSavePackage: Moving output files for package: /Game/Actors/BP_RockObstacle
+[2024.01.22-20.42.16:967][359]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_RockObstacle406A7E64465E852C089460BE1BC9A59D.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RockObstacle.uasset'
+[2024.01.22-20.42.17:008][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 287 ms (total: 2.72 sec)
+[2024.01.22-20.42.17:010][359]AssetCheck: New page: Asset Save: BP_RockObstacle
+[2024.01.22-20.42.17:010][359]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_RockObstacle.BP_RockObstacle
+[2024.01.22-20.42.18:612][454]BlueprintLog: New page: Compile BP_RockObstacle
+[2024.01.22-20.42.18:657][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.22-20.42.19:911][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.42.20:175][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_RockObstacle" FILE="../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RockObstacle.uasset" SILENT=true
+[2024.01.22-20.42.20:187][527]LogSavePackage: Moving output files for package: /Game/Actors/BP_RockObstacle
+[2024.01.22-20.42.20:187][527]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_RockObstacleAD6B1A824BC9C56A68E7B2A1473A4339.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RockObstacle.uasset'
+[2024.01.22-20.42.20:208][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 297 ms (total: 3.02 sec)
+[2024.01.22-20.42.20:211][527]AssetCheck: New page: Asset Save: BP_RockObstacle
+[2024.01.22-20.42.20:211][527]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_RockObstacle.BP_RockObstacle
+[2024.01.22-20.42.27:145][931]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Actors/BP_Obstacle.BP_Obstacle
+[2024.01.22-20.42.27:146][931]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-20.42.27:146][931]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-20.43.06:028][586]BlueprintLog: New page: Compile BP_Obstacle
+[2024.01.22-20.43.06:082][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.01.22-20.43.07:833][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.43.07:990][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Obstacle" FILE="../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_Obstacle.uasset" SILENT=true
+[2024.01.22-20.43.07:997][657]LogSavePackage: Moving output files for package: /Game/Actors/BP_Obstacle
+[2024.01.22-20.43.07:998][657]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_ObstacleA145D6564688A84E60DD8D910A5897CF.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_Obstacle.uasset'
+[2024.01.22-20.43.08:019][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 186 ms (total: 3.21 sec)
+[2024.01.22-20.43.08:022][657]AssetCheck: New page: Asset Save: BP_Obstacle
+[2024.01.22-20.43.08:022][657]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Obstacle.BP_Obstacle
+[2024.01.22-20.43.12:050][865]LogSlate: Window 'BP_Obstacle' being destroyed
+[2024.01.22-20.43.16:720][139]BlueprintLog: New page: Compile BP_RunCharacter
+[2024.01.22-20.43.16:789][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.01.22-20.43.17:541][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.43.17:671][176]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_RunCharacter" FILE="../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RunCharacter.uasset" SILENT=true
+[2024.01.22-20.43.17:678][176]LogSavePackage: Moving output files for package: /Game/Actors/BP_RunCharacter
+[2024.01.22-20.43.17:678][176]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_RunCharacter15107F49410AE6EB382394A9BAFD7397.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RunCharacter.uasset'
+[2024.01.22-20.43.17:691][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 3.36 sec)
+[2024.01.22-20.43.17:694][176]AssetCheck: New page: Asset Save: BP_RunCharacter
+[2024.01.22-20.43.17:694][176]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_RunCharacter.BP_RunCharacter
+[2024.01.22-20.43.20:313][315]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.22-20.43.20:327][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.22-20.43.20:328][315]PIE: New page: PIE session: MainLevel (22 janv. 2024 à 22:43:20)
+[2024.01.22-20.43.20:328][315]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.43.20:332][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004425s)
+[2024.01.22-20.43.20:332][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.004517s)
+[2024.01.22-20.43.20:349][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.22-20.43.20:351][315]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-20.43.20:351][315]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-20.43.20:352][315]LogAIModule: Creating AISystem for world MainLevel
+[2024.01.22-20.43.20:352][315]LogPlayLevel: PIE: World Init took: (0.001435s)
+[2024.01.22-20.43.20:353][315]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.01.22-20.43.20:353][315]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.22-20.43.20:353][315]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.22-20.43.20:353][315]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.22-20.43.20:353][315]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.22-20.43.20:353][315]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.22-20.43.20:353][315]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.22-20.43.20:353][315]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.22-20.43.20:353][315]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.22-20.43.20:353][315]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.22-20.43.20:353][315]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.22-20.43.20:353][315]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.22-20.43.20:355][315]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.22-20.43.20:389][315]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.22-20.43.20:390][315]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.22-20.43.20:390][315]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.22-20.43.20:390][315]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.22-20.43.20:392][315]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.01.22-20.43.20:392][315]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.01.22-20.43.20:394][315]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.01.22-20.43.20:394][315]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.01.22-20.43.20:394][315]LogInit: FAudioDevice initialized with ID 23.
+[2024.01.22-20.43.20:394][315]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainLevel'.
+[2024.01.22-20.43.20:394][315]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.01.22-20.43.20:406][315]LogLoad: Game class is 'BP_RunGameMode_C'
+[2024.01.22-20.43.20:406][315]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.01.22-21.43.20
+[2024.01.22-20.43.20:407][315]LogWorld: Bringing up level for play took: 0.000837
+[2024.01.22-20.43.20:409][315]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.01.22-20.43.20:430][315]PIE: Server logged in
+[2024.01.22-20.43.20:431][315]PIE: Play in editor total start time 0,104 seconds.
+[2024.01.22-20.43.34:970][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.43.34:971][163]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.43.34:971][163]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.22-20.43.34:972][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.43.34:980][163]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.22-20.43.34:984][163]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.43.35:034][163]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.22-20.43.35:034][163]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.01.22-20.43.35:034][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.01.22-20.43.35:036][163]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.01.22-20.43.35:041][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.43.35:043][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.01.22-20.43.35:065][164]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.01.22-20.43.51:194][ 37]BlueprintLog: New page: Compile BP_Obstacle
+[2024.01.22-20.43.51:265][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.01.22-20.43.54:694][227]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.22-20.43.54:708][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.22-20.43.54:708][227]PIE: New page: PIE session: MainLevel (22 janv. 2024 à 22:43:54)
+[2024.01.22-20.43.54:708][227]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.43.54:711][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003264s)
+[2024.01.22-20.43.54:711][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003343s)
+[2024.01.22-20.43.54:729][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.01.22-20.43.54:732][227]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-20.43.54:733][227]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-20.43.54:733][227]LogAIModule: Creating AISystem for world MainLevel
+[2024.01.22-20.43.54:734][227]LogPlayLevel: PIE: World Init took: (0.001567s)
+[2024.01.22-20.43.54:734][227]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.01.22-20.43.54:734][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.22-20.43.54:734][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.22-20.43.54:734][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.22-20.43.54:734][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.22-20.43.54:734][227]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.22-20.43.54:734][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.22-20.43.54:734][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.22-20.43.54:734][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.22-20.43.54:735][227]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.22-20.43.54:735][227]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.22-20.43.54:735][227]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.22-20.43.54:739][227]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.22-20.43.54:774][227]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.22-20.43.54:774][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.22-20.43.54:774][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.22-20.43.54:774][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.22-20.43.54:776][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.01.22-20.43.54:776][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.01.22-20.43.54:778][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.01.22-20.43.54:778][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.01.22-20.43.54:778][227]LogInit: FAudioDevice initialized with ID 24.
+[2024.01.22-20.43.54:778][227]LogAudio: Display: Audio Device (ID: 24) registered with world 'MainLevel'.
+[2024.01.22-20.43.54:778][227]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.01.22-20.43.54:781][227]LogLoad: Game class is 'BP_RunGameMode_C'
+[2024.01.22-20.43.54:782][227]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.01.22-21.43.54
+[2024.01.22-20.43.54:782][227]LogWorld: Bringing up level for play took: 0.000730
+[2024.01.22-20.43.54:785][227]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.01.22-20.43.54:804][227]PIE: Server logged in
+[2024.01.22-20.43.54:805][227]PIE: Play in editor total start time 0,099 seconds.
+[2024.01.22-20.44.04:780][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.44.04:780][812]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.44.04:780][812]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.22-20.44.04:780][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.44.04:785][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.22-20.44.04:789][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.44.04:801][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.22-20.44.04:801][812]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.01.22-20.44.04:801][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.01.22-20.44.04:803][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.01.22-20.44.04:808][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.44.04:810][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.01.22-20.44.04:869][814]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.01.22-20.44.11:128][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.44.11:231][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Obstacle" FILE="../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_Obstacle.uasset" SILENT=true
+[2024.01.22-20.44.11:238][136]LogSavePackage: Moving output files for package: /Game/Actors/BP_Obstacle
+[2024.01.22-20.44.11:239][136]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_ObstacleB349600040E88E5160B548969D7582EE.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_Obstacle.uasset'
+[2024.01.22-20.44.11:264][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 3.49 sec)
+[2024.01.22-20.44.11:267][136]AssetCheck: New page: Asset Save: BP_Obstacle
+[2024.01.22-20.44.11:267][136]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Obstacle.BP_Obstacle
+[2024.01.22-20.44.24:796][933]PIE: Warning: AttachTo: '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.24:797][933]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_3.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_3.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.24:799][933]PIE: Warning: AttachTo: '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.24:800][933]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_3.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_3.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.29:337][182]LogEditorTransaction: Undo Edit Mobility
+[2024.01.22-20.44.35:835][519]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_3.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_3.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.35:837][519]PIE: Warning: AttachTo: '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.35:838][519]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.BP_SilverObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Engine/Transient.World_11:PersistentLevel.BP_SilverObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.35:840][519]PIE: Warning: AttachTo: '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_4.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_4.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.42:793][915]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.44.42:886][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Obstacle" FILE="../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_Obstacle.uasset" SILENT=true
+[2024.01.22-20.44.42:889][915]LogSavePackage: Moving output files for package: /Game/Actors/BP_Obstacle
+[2024.01.22-20.44.42:889][915]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_ObstacleB4DDE2C7488553B70E1F13AC4D075AAF.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_Obstacle.uasset'
+[2024.01.22-20.44.42:915][915]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 3.62 sec)
+[2024.01.22-20.44.42:918][915]AssetCheck: New page: Asset Save: BP_Obstacle
+[2024.01.22-20.44.42:918][915]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Obstacle.BP_Obstacle
+[2024.01.22-20.44.43:929][976]BlueprintLog: New page: Compile BP_Obstacle
+[2024.01.22-20.44.43:971][976]PIE: Warning: AttachTo: '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.43:972][976]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_3.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_3.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.43:972][976]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.BP_SilverObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Engine/Transient.World_11:PersistentLevel.BP_SilverObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.43:972][976]PIE: Warning: AttachTo: '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_4.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_4.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.43:991][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.01.22-20.44.44:001][976]PIE: Warning: AttachTo: '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.44:002][976]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_3.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_3.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.44:002][976]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_4.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_4.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.44:004][976]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.BP_SilverObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Engine/Transient.World_11:PersistentLevel.BP_SilverObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.44:005][976]PIE: Warning: AttachTo: '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_4.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_4.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.44:005][976]PIE: Warning: AttachTo: '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_5.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_5.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.44:011][976]PIE: Warning: AttachTo: '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.44:011][976]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_4.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_4.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.44:013][976]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.BP_SilverObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Engine/Transient.World_11:PersistentLevel.BP_SilverObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.44:013][976]PIE: Warning: AttachTo: '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_5.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_5.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.53:775][541]PIE: Warning: AttachTo: '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.53:776][541]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_4.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_4.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.44.56:800][716]BlueprintLog: New page: Compile BP_RockObstacle
+[2024.01.22-20.44.56:840][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.01.22-20.44.58:255][789]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.BP_SilverObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Engine/Transient.World_11:PersistentLevel.BP_SilverObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.45.00:460][916]Cmd: TRANSACTION UNDO
+[2024.01.22-20.45.00:460][916]LogEditorTransaction: Undo Edit Simulate Physics
+[2024.01.22-20.45.00:463][916]PIE: Warning: AttachTo: '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.45.05:386][189]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.45.05:517][189]LogSavePackage: Moving output files for package: /Game/Actors/BP_SilverObstacle
+[2024.01.22-20.45.05:517][189]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_SilverObstacle97058DEE4AC0364C4BB8ACBE1911E2AC.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_SilverObstacle.uasset'
+[2024.01.22-20.45.05:535][189]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 3.77 sec)
+[2024.01.22-20.45.05:538][189]AssetCheck: New page: Asset Save: BP_SilverObstacle
+[2024.01.22-20.45.05:538][189]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_SilverObstacle.BP_SilverObstacle
+[2024.01.22-20.45.16:087][810]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_5.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_5.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.45.16:088][810]PIE: Warning: AttachTo: '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.45.18:243][932]BlueprintLog: New page: Compile BP_RockObstacle
+[2024.01.22-20.45.18:275][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.01.22-20.45.19:644][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.45.19:859][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_RockObstacle" FILE="../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RockObstacle.uasset" SILENT=true
+[2024.01.22-20.45.19:868][  0]LogSavePackage: Moving output files for package: /Game/Actors/BP_RockObstacle
+[2024.01.22-20.45.19:869][  0]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_RockObstacle57815E1D4AB14062E294D692A8892ABE.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RockObstacle.uasset'
+[2024.01.22-20.45.19:889][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 245 ms (total: 4.01 sec)
+[2024.01.22-20.45.19:892][  0]AssetCheck: New page: Asset Save: BP_RockObstacle
+[2024.01.22-20.45.19:892][  0]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_RockObstacle.BP_RockObstacle
+[2024.01.22-20.45.28:709][529]Cmd: TRANSACTION UNDO
+[2024.01.22-20.45.28:709][529]LogEditorTransaction: Undo Edit Simulate Physics
+[2024.01.22-20.45.28:715][529]PIE: Warning: AttachTo: '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.45.35:173][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.45.35:323][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_RockObstacle" FILE="../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RockObstacle.uasset" SILENT=true
+[2024.01.22-20.45.35:327][894]LogSavePackage: Moving output files for package: /Game/Actors/BP_RockObstacle
+[2024.01.22-20.45.35:328][894]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_RockObstacle909E59F043926BE65F296E89C2700265.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RockObstacle.uasset'
+[2024.01.22-20.45.35:353][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 4.19 sec)
+[2024.01.22-20.45.35:355][894]AssetCheck: New page: Asset Save: BP_RockObstacle
+[2024.01.22-20.45.35:355][894]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_RockObstacle.BP_RockObstacle
+[2024.01.22-20.46.11:811][979]BlueprintLog: New page: Compile BP_Obstacle
+[2024.01.22-20.46.11:836][979]PIE: Warning: AttachTo: '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.11:837][979]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_6.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_6.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.11:838][979]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.BP_SilverObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Engine/Transient.World_11:PersistentLevel.BP_SilverObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.11:838][979]PIE: Warning: AttachTo: '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_5.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_5.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.11:864][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.22-20.46.11:878][979]PIE: Warning: AttachTo: '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.11:879][979]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_6.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_6.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.11:879][979]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_7.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_7.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.11:881][979]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.BP_SilverObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Engine/Transient.World_11:PersistentLevel.BP_SilverObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.11:882][979]PIE: Warning: AttachTo: '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_5.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_5.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.11:882][979]PIE: Warning: AttachTo: '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_6.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_6.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.11:888][979]PIE: Warning: AttachTo: '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_2:PersistentLevel.BP_RockObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.11:888][979]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_7.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Engine/Transient.World_7:PersistentLevel.BP_RockObstacle_C_7.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.11:891][979]PIE: Warning: AttachTo: '/Engine/Transient.World_11:PersistentLevel.BP_SilverObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Engine/Transient.World_11:PersistentLevel.BP_SilverObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.11:891][979]PIE: Warning: AttachTo: '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_6.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Engine/Transient.World_12:PersistentLevel.BP_SilverObstacle_C_6.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.13:476][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.46.13:594][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Obstacle" FILE="../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_Obstacle.uasset" SILENT=true
+[2024.01.22-20.46.13:600][ 68]LogSavePackage: Moving output files for package: /Game/Actors/BP_Obstacle
+[2024.01.22-20.46.13:601][ 68]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_Obstacle419DF9F6431EED2D53EC13A321236795.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_Obstacle.uasset'
+[2024.01.22-20.46.13:625][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 4.34 sec)
+[2024.01.22-20.46.13:630][ 68]AssetCheck: New page: Asset Save: BP_Obstacle
+[2024.01.22-20.46.13:630][ 68]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Obstacle.BP_Obstacle
+[2024.01.22-20.46.16:600][239]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.22-20.46.16:606][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.22-20.46.16:606][239]PIE: New page: PIE session: MainLevel (22 janv. 2024 à 22:46:16)
+[2024.01.22-20.46.16:609][239]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.46.16:610][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001498s)
+[2024.01.22-20.46.16:610][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.001538s)
+[2024.01.22-20.46.16:628][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.01.22-20.46.16:630][239]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-20.46.16:630][239]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-20.46.16:631][239]LogAIModule: Creating AISystem for world MainLevel
+[2024.01.22-20.46.16:631][239]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2024.01.22-20.46.16:631][239]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.01.22-20.46.16:631][239]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.22-20.46.16:631][239]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.22-20.46.16:631][239]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.22-20.46.16:631][239]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.22-20.46.16:631][239]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.22-20.46.16:631][239]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.22-20.46.16:631][239]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.22-20.46.16:631][239]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.22-20.46.16:631][239]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.22-20.46.16:632][239]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.22-20.46.16:632][239]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.22-20.46.16:634][239]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.22-20.46.16:657][239]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.22-20.46.16:657][239]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.22-20.46.16:657][239]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.22-20.46.16:657][239]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.22-20.46.16:658][239]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.01.22-20.46.16:658][239]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.01.22-20.46.16:659][239]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.01.22-20.46.16:659][239]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.01.22-20.46.16:659][239]LogInit: FAudioDevice initialized with ID 25.
+[2024.01.22-20.46.16:659][239]LogAudio: Display: Audio Device (ID: 25) registered with world 'MainLevel'.
+[2024.01.22-20.46.16:659][239]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.01.22-20.46.16:662][239]LogLoad: Game class is 'BP_RunGameMode_C'
+[2024.01.22-20.46.16:663][239]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.01.22-21.46.16
+[2024.01.22-20.46.16:663][239]LogWorld: Bringing up level for play took: 0.000599
+[2024.01.22-20.46.16:665][239]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.01.22-20.46.16:673][239]PIE: Warning: AttachTo: '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_SilverObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_SilverObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.16:674][239]PIE: Warning: AttachTo: '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_RockObstacle_C_0.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_RockObstacle_C_0.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.16:675][239]PIE: Warning: AttachTo: '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_SilverObstacle_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_SilverObstacle_C_1.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.16:676][239]PIE: Warning: AttachTo: '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_SilverObstacle_C_2.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_SilverObstacle_C_2.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.16:676][239]PIE: Server logged in
+[2024.01.22-20.46.16:677][239]PIE: Play in editor total start time 0,071 seconds.
+[2024.01.22-20.46.17:512][276]PIE: Warning: AttachTo: '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_RockObstacle_C_1.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_RockObstacle_C_1.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.19:180][376]PIE: Warning: AttachTo: '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_SilverObstacle_C_3.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_SilverObstacle_C_3.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.20:846][476]PIE: Warning: AttachTo: '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_RockObstacle_C_2.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_RockObstacle_C_2.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.22:506][575]PIE: Warning: AttachTo: '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_RockObstacle_C_3.DefaultSceneRoot' is not static  (in blueprint "BP_RockObstacle"), cannot attach '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_RockObstacle_C_3.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.24:256][680]PIE: Warning: AttachTo: '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_SilverObstacle_C_4.DefaultSceneRoot' is not static  (in blueprint "BP_SilverObstacle"), cannot attach '/Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_SilverObstacle_C_4.StaticMesh' which is static to it. Aborting.
+[2024.01.22-20.46.25:280][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.46.25:280][739]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.46.25:280][739]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.22-20.46.25:280][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.46.25:290][739]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.22-20.46.25:295][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.46.25:309][739]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.22-20.46.25:310][739]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.01.22-20.46.25:310][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.01.22-20.46.25:312][739]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.01.22-20.46.25:319][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.46.25:324][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.01.22-20.46.25:549][740]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.01.22-20.46.37:217][110]LogSlate: Window 'Message Log' being destroyed
+[2024.01.22-20.46.37:263][110]LogSlate: Window 'Message Log' being destroyed
+[2024.01.22-20.46.48:975][754]BlueprintLog: New page: Compile BP_Obstacle
+[2024.01.22-20.46.49:040][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.01.22-20.46.49:891][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.46.49:991][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Obstacle" FILE="../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_Obstacle.uasset" SILENT=true
+[2024.01.22-20.46.49:997][792]LogSavePackage: Moving output files for package: /Game/Actors/BP_Obstacle
+[2024.01.22-20.46.49:997][792]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_Obstacle10D80F4E42AD8D1995B2929236E29712.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_Obstacle.uasset'
+[2024.01.22-20.46.50:020][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 4.47 sec)
+[2024.01.22-20.46.50:024][792]AssetCheck: New page: Asset Save: BP_Obstacle
+[2024.01.22-20.46.50:024][792]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Obstacle.BP_Obstacle
+[2024.01.22-20.46.58:094][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.46.58:208][259]LogSavePackage: Moving output files for package: /Game/Actors/BP_SilverObstacle
+[2024.01.22-20.46.58:209][259]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_SilverObstacle52990AB64D2BE1D50CB89CA32E746BD7.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_SilverObstacle.uasset'
+[2024.01.22-20.46.58:232][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 4.61 sec)
+[2024.01.22-20.46.58:234][259]AssetCheck: New page: Asset Save: BP_SilverObstacle
+[2024.01.22-20.46.58:234][259]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_SilverObstacle.BP_SilverObstacle
+[2024.01.22-20.47.04:531][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.47.04:725][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_RockObstacle" FILE="../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RockObstacle.uasset" SILENT=true
+[2024.01.22-20.47.04:734][607]LogSavePackage: Moving output files for package: /Game/Actors/BP_RockObstacle
+[2024.01.22-20.47.04:735][607]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_RockObstacleAFA669DE4BB329C6F358549ADBC88A40.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RockObstacle.uasset'
+[2024.01.22-20.47.04:759][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 228 ms (total: 4.84 sec)
+[2024.01.22-20.47.04:762][607]AssetCheck: New page: Asset Save: BP_RockObstacle
+[2024.01.22-20.47.04:762][607]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_RockObstacle.BP_RockObstacle
+[2024.01.22-20.47.06:894][727]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.22-20.47.06:909][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.22-20.47.06:909][727]PIE: New page: PIE session: MainLevel (22 janv. 2024 à 22:47:06)
+[2024.01.22-20.47.06:909][727]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.47.06:911][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001641s)
+[2024.01.22-20.47.06:911][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.001686s)
+[2024.01.22-20.47.06:930][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.01.22-20.47.06:933][727]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-20.47.06:934][727]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-20.47.06:934][727]LogAIModule: Creating AISystem for world MainLevel
+[2024.01.22-20.47.06:934][727]LogPlayLevel: PIE: World Init took: (0.001158s)
+[2024.01.22-20.47.06:934][727]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.01.22-20.47.06:935][727]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.22-20.47.06:935][727]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.22-20.47.06:935][727]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.22-20.47.06:935][727]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.22-20.47.06:935][727]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.22-20.47.06:935][727]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.22-20.47.06:935][727]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.22-20.47.06:935][727]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.22-20.47.06:935][727]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.22-20.47.06:935][727]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.22-20.47.06:935][727]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.22-20.47.06:937][727]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.22-20.47.06:960][727]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.22-20.47.06:961][727]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.22-20.47.06:961][727]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.22-20.47.06:961][727]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.22-20.47.06:962][727]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.01.22-20.47.06:962][727]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2024.01.22-20.47.06:964][727]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.01.22-20.47.06:964][727]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.01.22-20.47.06:964][727]LogInit: FAudioDevice initialized with ID 26.
+[2024.01.22-20.47.06:964][727]LogAudio: Display: Audio Device (ID: 26) registered with world 'MainLevel'.
+[2024.01.22-20.47.06:964][727]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.01.22-20.47.06:966][727]LogLoad: Game class is 'BP_RunGameMode_C'
+[2024.01.22-20.47.06:966][727]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.01.22-21.47.06
+[2024.01.22-20.47.06:968][727]LogWorld: Bringing up level for play took: 0.000528
+[2024.01.22-20.47.06:969][727]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.01.22-20.47.06:977][727]PIE: Server logged in
+[2024.01.22-20.47.06:978][727]PIE: Play in editor total start time 0,069 seconds.
+[2024.01.22-20.47.09:156][851]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_RockObstacle_C /Game/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.BP_RockObstacle_C_1
+	Function /Game/Actors/BP_Obstacle.BP_Obstacle_C:OnHit:0000
+[2024.01.22-20.47.09:156][851]PIE: Error: Infinite loop detected. Blueprint:  BP_Obstacle Function:  On Hit Call Stack:  Show
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:156][851]LogBlueprintUserMessages: [BP_RockObstacle_C_1] Hello
+[2024.01.22-20.47.09:200][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.47.09:200][851]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.47.09:200][851]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.22-20.47.09:201][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.47.09:207][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.22-20.47.09:213][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.47.09:229][851]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.22-20.47.09:230][851]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.01.22-20.47.09:230][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.01.22-20.47.09:235][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.01.22-20.47.09:243][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.47.09:248][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.01.22-20.47.09:447][852]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.01.22-20.47.18:766][134]LogSlate: Window 'Message Log' being destroyed
+[2024.01.22-20.47.18:818][134]LogSlate: Window 'Message Log' being destroyed
+[2024.01.22-20.47.31:767][606]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.22-20.47.31:803][606]LogSlate: Window 'Content Browser' being destroyed
+[2024.01.22-20.47.33:398][701]LogSlate: Window 'Message Log' being destroyed
+[2024.01.22-20.47.33:422][701]LogSlate: Window 'Message Log' being destroyed
+[2024.01.22-20.47.54:625][966]LogEditorTransaction: Undo Delete current selection
+[2024.01.22-20.48.30:829][ 14]BlueprintLog: New page: Compile BP_Obstacle
+[2024.01.22-20.48.30:875][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.01.22-20.48.33:244][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.48.33:361][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/BP_Obstacle" FILE="../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_Obstacle.uasset" SILENT=true
+[2024.01.22-20.48.33:365][149]LogSavePackage: Moving output files for package: /Game/Actors/BP_Obstacle
+[2024.01.22-20.48.33:365][149]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_Obstacle75AADF8B44076BEAA30874A3589C62C8.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_Obstacle.uasset'
+[2024.01.22-20.48.33:391][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 4.98 sec)
+[2024.01.22-20.48.33:394][149]AssetCheck: New page: Asset Save: BP_Obstacle
+[2024.01.22-20.48.33:394][149]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_Obstacle.BP_Obstacle
+[2024.01.22-20.48.42:811][689]BlueprintLog: New page: Compile BP_SilverObstacle
+[2024.01.22-20.48.42:853][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2024.01.22-20.48.43:902][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-20.48.44:152][747]LogSavePackage: Moving output files for package: /Game/Actors/BP_SilverObstacle
+[2024.01.22-20.48.44:153][747]LogSavePackage: Moving '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Saved/BP_SilverObstacle5080757942135297B815FEBB86134A4A.tmp' to '../../../../../../Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_SilverObstacle.uasset'
+[2024.01.22-20.48.44:175][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 273 ms (total: 5.26 sec)
+[2024.01.22-20.48.44:178][747]AssetCheck: New page: Asset Save: BP_SilverObstacle
+[2024.01.22-20.48.44:178][747]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/BP_SilverObstacle.BP_SilverObstacle
+[2024.01.22-20.48.49:254][ 39]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.22-20.48.49:267][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.22-20.48.49:267][ 39]PIE: New page: PIE session: MainLevel (22 janv. 2024 à 22:48:49)
+[2024.01.22-20.48.49:268][ 39]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.48.49:271][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003289s)
+[2024.01.22-20.48.49:271][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003361s)
+[2024.01.22-20.48.49:293][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.01.22-20.48.49:296][ 39]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-20.48.49:296][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-20.48.49:297][ 39]LogAIModule: Creating AISystem for world MainLevel
+[2024.01.22-20.48.49:297][ 39]LogPlayLevel: PIE: World Init took: (0.001277s)
+[2024.01.22-20.48.49:297][ 39]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.01.22-20.48.49:297][ 39]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.22-20.48.49:297][ 39]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.22-20.48.49:297][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.22-20.48.49:298][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.22-20.48.49:298][ 39]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.22-20.48.49:298][ 39]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.22-20.48.49:298][ 39]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.22-20.48.49:298][ 39]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.22-20.48.49:298][ 39]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.22-20.48.49:298][ 39]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.22-20.48.49:298][ 39]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.22-20.48.49:300][ 39]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.22-20.48.49:327][ 39]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.22-20.48.49:327][ 39]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.22-20.48.49:327][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.22-20.48.49:327][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.22-20.48.49:327][ 39]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.01.22-20.48.49:327][ 39]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.01.22-20.48.49:328][ 39]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.01.22-20.48.49:328][ 39]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.01.22-20.48.49:328][ 39]LogInit: FAudioDevice initialized with ID 27.
+[2024.01.22-20.48.49:328][ 39]LogAudio: Display: Audio Device (ID: 27) registered with world 'MainLevel'.
+[2024.01.22-20.48.49:328][ 39]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.01.22-20.48.49:331][ 39]LogLoad: Game class is 'BP_RunGameMode_C'
+[2024.01.22-20.48.49:332][ 39]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.01.22-21.48.49
+[2024.01.22-20.48.49:332][ 39]LogWorld: Bringing up level for play took: 0.000448
+[2024.01.22-20.48.49:333][ 39]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.01.22-20.48.49:343][ 39]PIE: Server logged in
+[2024.01.22-20.48.49:344][ 39]PIE: Play in editor total start time 0,076 seconds.
+[2024.01.22-20.48.53:539][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.48.53:540][273]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.48.53:540][273]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.22-20.48.53:540][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.48.53:546][273]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.22-20.48.53:551][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.48.53:566][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.48.53:566][273]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.01.22-20.48.53:566][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.01.22-20.48.53:568][273]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.01.22-20.48.53:576][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.01.22-20.48.53:610][274]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.01.22-20.48.55:134][343]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.22-20.48.55:146][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.22-20.48.55:147][343]PIE: New page: PIE session: MainLevel (22 janv. 2024 à 22:48:55)
+[2024.01.22-20.48.55:147][343]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.48.55:149][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002722s)
+[2024.01.22-20.48.55:149][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.002801s)
+[2024.01.22-20.48.55:165][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.01.22-20.48.55:168][343]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-20.48.55:168][343]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-20.48.55:168][343]LogAIModule: Creating AISystem for world MainLevel
+[2024.01.22-20.48.55:168][343]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2024.01.22-20.48.55:168][343]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.01.22-20.48.55:170][343]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.22-20.48.55:170][343]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.22-20.48.55:170][343]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.22-20.48.55:170][343]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.22-20.48.55:170][343]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.22-20.48.55:170][343]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.22-20.48.55:170][343]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.22-20.48.55:170][343]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.22-20.48.55:170][343]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.22-20.48.55:170][343]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.22-20.48.55:170][343]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.22-20.48.55:172][343]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.22-20.48.55:194][343]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.22-20.48.55:195][343]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.22-20.48.55:195][343]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.22-20.48.55:195][343]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.22-20.48.55:196][343]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.01.22-20.48.55:196][343]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2024.01.22-20.48.55:198][343]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.01.22-20.48.55:198][343]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.01.22-20.48.55:198][343]LogInit: FAudioDevice initialized with ID 28.
+[2024.01.22-20.48.55:198][343]LogAudio: Display: Audio Device (ID: 28) registered with world 'MainLevel'.
+[2024.01.22-20.48.55:198][343]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2024.01.22-20.48.55:234][343]LogLoad: Game class is 'BP_RunGameMode_C'
+[2024.01.22-20.48.55:235][343]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.01.22-21.48.55
+[2024.01.22-20.48.55:235][343]LogWorld: Bringing up level for play took: 0.000602
+[2024.01.22-20.48.55:238][343]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.01.22-20.48.55:246][343]PIE: Server logged in
+[2024.01.22-20.48.55:248][343]PIE: Play in editor total start time 0,102 seconds.
+[2024.01.22-20.49.00:610][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.49.00:610][593]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.49.00:610][593]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.22-20.49.00:611][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.49.00:617][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.22-20.49.00:622][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.49.00:635][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.49.00:635][593]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2024.01.22-20.49.00:636][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.01.22-20.49.00:638][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.01.22-20.49.00:648][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.01.22-20.49.00:671][594]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.01.22-20.49.02:470][684]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.22-20.49.02:483][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.22-20.49.02:483][684]PIE: New page: PIE session: MainLevel (22 janv. 2024 à 22:49:02)
+[2024.01.22-20.49.02:483][684]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.49.02:486][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002574s)
+[2024.01.22-20.49.02:486][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.002637s)
+[2024.01.22-20.49.02:502][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.22-20.49.02:504][684]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-20.49.02:505][684]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-20.49.02:505][684]LogAIModule: Creating AISystem for world MainLevel
+[2024.01.22-20.49.02:506][684]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2024.01.22-20.49.02:506][684]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.01.22-20.49.02:506][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.22-20.49.02:506][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.22-20.49.02:506][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.22-20.49.02:506][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.22-20.49.02:506][684]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.22-20.49.02:506][684]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.22-20.49.02:506][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.22-20.49.02:506][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.22-20.49.02:507][684]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.22-20.49.02:507][684]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.22-20.49.02:507][684]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.22-20.49.02:509][684]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.22-20.49.02:531][684]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.22-20.49.02:531][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.22-20.49.02:531][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.22-20.49.02:531][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.22-20.49.02:532][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.01.22-20.49.02:532][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2024.01.22-20.49.02:533][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.01.22-20.49.02:533][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.01.22-20.49.02:533][684]LogInit: FAudioDevice initialized with ID 29.
+[2024.01.22-20.49.02:533][684]LogAudio: Display: Audio Device (ID: 29) registered with world 'MainLevel'.
+[2024.01.22-20.49.02:534][684]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2024.01.22-20.49.02:573][684]LogLoad: Game class is 'BP_RunGameMode_C'
+[2024.01.22-20.49.02:575][684]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.01.22-21.49.02
+[2024.01.22-20.49.02:575][684]LogWorld: Bringing up level for play took: 0.000990
+[2024.01.22-20.49.02:579][684]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.01.22-20.49.02:594][684]PIE: Server logged in
+[2024.01.22-20.49.02:596][684]PIE: Play in editor total start time 0,114 seconds.
+[2024.01.22-20.49.06:690][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.49.06:690][773]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.49.06:690][773]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.22-20.49.06:691][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.49.06:697][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.22-20.49.06:704][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.49.06:721][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.49.06:721][773]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2024.01.22-20.49.06:721][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.01.22-20.49.06:724][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.01.22-20.49.06:733][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.01.22-20.49.06:761][774]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.01.22-20.49.08:849][879]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.22-20.49.08:862][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.22-20.49.08:862][879]PIE: New page: PIE session: MainLevel (22 janv. 2024 à 22:49:08)
+[2024.01.22-20.49.08:863][879]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.49.08:866][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003059s)
+[2024.01.22-20.49.08:867][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003138s)
+[2024.01.22-20.49.08:886][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.01.22-20.49.08:889][879]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-20.49.08:889][879]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-20.49.08:889][879]LogAIModule: Creating AISystem for world MainLevel
+[2024.01.22-20.49.08:890][879]LogPlayLevel: PIE: World Init took: (0.001280s)
+[2024.01.22-20.49.08:890][879]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.01.22-20.49.08:890][879]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.22-20.49.08:890][879]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.22-20.49.08:890][879]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.22-20.49.08:890][879]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.22-20.49.08:890][879]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.22-20.49.08:890][879]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.22-20.49.08:890][879]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.22-20.49.08:890][879]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.22-20.49.08:891][879]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.22-20.49.08:891][879]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.22-20.49.08:891][879]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.22-20.49.08:894][879]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.22-20.49.08:927][879]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.22-20.49.08:927][879]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.22-20.49.08:927][879]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.22-20.49.08:927][879]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.22-20.49.08:928][879]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.01.22-20.49.08:928][879]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2024.01.22-20.49.08:930][879]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.01.22-20.49.08:930][879]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.01.22-20.49.08:930][879]LogInit: FAudioDevice initialized with ID 30.
+[2024.01.22-20.49.08:930][879]LogAudio: Display: Audio Device (ID: 30) registered with world 'MainLevel'.
+[2024.01.22-20.49.08:930][879]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.01.22-20.49.08:953][879]LogLoad: Game class is 'BP_RunGameMode_C'
+[2024.01.22-20.49.08:954][879]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.01.22-21.49.08
+[2024.01.22-20.49.08:954][879]LogWorld: Bringing up level for play took: 0.000900
+[2024.01.22-20.49.08:958][879]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.01.22-20.49.08:977][879]PIE: Server logged in
+[2024.01.22-20.49.08:978][879]PIE: Play in editor total start time 0,117 seconds.
+[2024.01.22-20.49.15:480][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.49.15:480][215]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.49.15:480][215]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.22-20.49.15:480][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.49.15:487][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.22-20.49.15:494][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.49.15:511][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.49.15:511][215]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.01.22-20.49.15:511][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.01.22-20.49.15:514][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.01.22-20.49.15:524][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.01.22-20.49.15:558][216]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.01.22-20.49.17:051][271]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.22-20.49.17:063][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.22-20.49.17:063][271]PIE: New page: PIE session: MainLevel (22 janv. 2024 à 22:49:17)
+[2024.01.22-20.49.17:064][271]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.49.17:067][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002997s)
+[2024.01.22-20.49.17:067][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.003080s)
+[2024.01.22-20.49.17:084][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.22-20.49.17:086][271]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-20.49.17:086][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-20.49.17:088][271]LogAIModule: Creating AISystem for world MainLevel
+[2024.01.22-20.49.17:089][271]LogPlayLevel: PIE: World Init took: (0.001160s)
+[2024.01.22-20.49.17:089][271]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.01.22-20.49.17:089][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.22-20.49.17:089][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.22-20.49.17:089][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.22-20.49.17:089][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.22-20.49.17:089][271]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.22-20.49.17:089][271]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.22-20.49.17:089][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.22-20.49.17:089][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.22-20.49.17:089][271]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.22-20.49.17:089][271]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.22-20.49.17:089][271]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.22-20.49.17:099][271]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.22-20.49.17:121][271]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.22-20.49.17:122][271]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.22-20.49.17:122][271]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.22-20.49.17:122][271]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.22-20.49.17:122][271]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.01.22-20.49.17:122][271]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2024.01.22-20.49.17:124][271]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.01.22-20.49.17:124][271]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.01.22-20.49.17:124][271]LogInit: FAudioDevice initialized with ID 31.
+[2024.01.22-20.49.17:124][271]LogAudio: Display: Audio Device (ID: 31) registered with world 'MainLevel'.
+[2024.01.22-20.49.17:125][271]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2024.01.22-20.49.17:153][271]LogLoad: Game class is 'BP_RunGameMode_C'
+[2024.01.22-20.49.17:154][271]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2024.01.22-21.49.17
+[2024.01.22-20.49.17:154][271]LogWorld: Bringing up level for play took: 0.000935
+[2024.01.22-20.49.17:159][271]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2024.01.22-20.49.17:174][271]PIE: Server logged in
+[2024.01.22-20.49.17:175][271]PIE: Play in editor total start time 0,112 seconds.
+[2024.01.22-20.49.36:940][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.49.36:940][374]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2024.01.22-20.49.36:940][374]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.22-20.49.36:940][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.49.36:946][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.22-20.49.36:949][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-20.49.36:958][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-20.49.36:958][374]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2024.01.22-20.49.36:958][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.01.22-20.49.36:961][374]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.01.22-20.49.36:968][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.22-20.49.37:028][376]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2024.01.22-20.49.50:028][536]LogDerivedDataCache: C:/Users/fifam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:20.314 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10993 files in 13388 folders with total size 719 MiB.
+[2024.01.22-20.49.52:656][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
