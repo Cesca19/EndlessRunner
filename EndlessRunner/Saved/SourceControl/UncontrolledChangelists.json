@@ -9,7 +9,8 @@
 				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_RunCharacter.uasset",
 				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/MainLevel.umap",
 				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/GameModes/BP_RunGameMode.uasset",
-				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Controllers/BP_RunCharacterController.uasset"
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Controllers/BP_RunCharacterController.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_FloorTile.uasset"
 			]
 		}
 	]
