@@ -16,7 +16,31 @@
 				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/StarterContent/Props/SM_Rock.uasset",
 				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_SilverObstacle.uasset",
 				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_Item.uasset",
-				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Resources/Audio/collectcoin-6075.uasset"
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Resources/Coins/Materials/M_Metal_Gold_Instance.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Resources/Coins/Materials/M_Metal_Black_Parent.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Resources/Coins/Materials/M_Metal_Red_Instance.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Resources/Coins/Meshes/Pl_Coin_01.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Resources/Coins/Meshes/Pl_Coin_02.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Resources/Coins/Textures/Pl_plastic_r.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Resources/Coins/Textures/Pl_plastic_n.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Levels/MainLevel.umap",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_CoinPickUp.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_CoinPickUp_1.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Resources/Audio/collectcoin-6075.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_CoinPickUp_2.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_CoinPickUp_3.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_Coin1.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Resources/Audio/collectcoin-6075.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_Item1.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_Item2.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Platformer/Meshes/Pl_Coin_01.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Platformer/Meshes/Pl_Coin_02.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Platformer/Materials/M_Metal_Red_Instance.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Platformer/Materials/M_Metal_Black_Parent.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Platformer/Materials/M_Metal_Gold_Instance.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Platformer/Textures/Pl_plastic_n.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Platformer/Textures/Pl_plastic_r.uasset",
+				"C:/Users/fifam/Projets/G-TECH3/Unreal C++ BP/EndlessRunner/EndlessRunner/Content/Actors/BP_ItemYellow.uasset"
 			]
 		}
 	]
